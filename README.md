@@ -1,5 +1,8 @@
 # Master Mind
-Mastermind game for Wio Terminal. It can also be executed in Arduino by removing screen related functions
+Mastermind game for Wio Terminal. It can also be executed in Arduino by removing screen related functions.
+
+# Tutorial 
+https://www.hackster.io/roni-bandini/electronic-mastermind-game-on-a-wio-terminal-230f0d
 
 # How to play
 First hint correct numbers in correct positions
